@@ -13,5 +13,19 @@ purge a discord channel
  - or use this trick:
  - type the channel name with a `\` in front, so to get the ID of #general, type `\#general` and send that message, only take the numbers out of the responds 
  - ![example](https://cdn.discordapp.com/attachments/235378515866812417/269195258640728075/2017-01-12_22-05-03.gif)
- 3. now open any cli in the map with the exe file, and run `./discord-purge-channel.exe <TOKEN> <CHANNEL_ID>` replacing \<TOKEN> and \<channel_ID> with the corresponding values
+ 3. now open any cli in the map with the exe file, and run 
+ 
+ WINDOWS: `./discord-purge-channel.exe <TOKEN> <CHANNEL_ID>`
+ 
+ LINUX: `./discord-purge-channel <TOKEN> <CHANNEL_ID>`
+ 
+ MAC: _compiling error_
+ 
+ replacing \<TOKEN> and \<channel_ID> with the corresponding values
  4. you will see the last message of this channel and need to press `Y` or `enter` to start clearing the channel
+
+
+
+TODO:
+* remake this file
+* questions using cli input for needed info
