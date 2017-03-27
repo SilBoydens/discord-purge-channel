@@ -29,3 +29,5 @@ purge a discord channel
 TODO:
 * remake this file
 * questions using cli input for needed info
+* rewrite the code to not look so ugly...
+* upload the code and make it **OPEN**-source
