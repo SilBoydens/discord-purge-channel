@@ -1,3 +1,8 @@
+# depricated
+to purge a whole channel you can now clone and delete the channel
+
+
+
 # discord-purge-channel
 purge a discord channel
 
